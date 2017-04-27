@@ -23,7 +23,7 @@ for word in seg_list:
 length = len(cnt)
 
 # get the order of the keys in a simple and easy way
-
+#well....
 
 # get the bigram 2-dimential array
 
