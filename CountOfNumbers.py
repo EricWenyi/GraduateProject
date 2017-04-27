@@ -22,7 +22,7 @@ for word in seg_list:
 # get length of dictionary
 length = len(cnt)
 
-# get the order of the keys
+# get the new order of the keys
 
 
 # get the bigram 2-dimential array
